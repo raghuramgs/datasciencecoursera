@@ -1,4 +1,4 @@
-# Week 4 Data science Assignment
+# Week 4: Data science course project assignment
 
 ## Hello world by Raghuram GS
 
